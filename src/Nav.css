@@ -1,0 +1,17 @@
+.Nav {
+    background-color: darkblue;
+    padding: 10px;
+    text-align: start;
+}
+
+.Nav a {
+    text-decoration: none;
+    color: lightgray;
+    padding: 10px;
+}
+
+.Nav a.active {
+    color: white;
+    font-weight: bold;
+    font-size: 1.25rem;
+}

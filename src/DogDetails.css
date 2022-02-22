@@ -1,0 +1,13 @@
+#DogDetails {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    background-color:floralwhite
+}
+
+.DogDetails-li {
+    text-align: start;
+    font-size: .8rem;
+    padding: 5px;
+} 
